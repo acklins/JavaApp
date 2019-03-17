@@ -1,0 +1,29 @@
+ @import url('https://fonts.googleapis.com/css?family=Bree+Serif');
+ .container{
+ 	font-family: 'Bree Serif', serif;
+ }
+   
+  .tableone {
+            width: 1200px;
+            border: 5px solid rgb(43, 159, 226);
+        }
+
+        thead {
+            background-color: gray;
+        }
+
+        .editall {
+            color: white;
+            text-decoration-line: underline;
+            margin-left: 550px;
+        }
+
+        span {
+            color: blue;
+            font-weight: bold;
+        }
+
+        .one {
+            margin: 20px;
+        }
+        
